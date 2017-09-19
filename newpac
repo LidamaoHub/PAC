@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "PROXY 47.90.18.188:443";
+var proxy = "PROXY 47.90.18.188:25";
 
 var domains = {
   "slideshare.net": 1,
